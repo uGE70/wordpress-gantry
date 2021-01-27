@@ -756,3 +756,19 @@ msgstr "Vérifier d'avoir les permissions pour modifier ce menu et qu'aucun él�
 
 msgid "Site is currently in offline mode."
 msgstr "Le site est actuellement en mode maintenance."
+
+#. particles/loginform.html.twig
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+#. particles/loginform.html.twig
+msgid "Password"
+msgstr "Mot de passe"
+
+#. particles/loginform.html.twig
+msgid "Remember me"
+msgstr "Se souvenir de moi"
+
+#. particles/loginform.html.twig
+msgid "Log In"
+msgstr "Connexion"
