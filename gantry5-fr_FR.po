@@ -365,7 +365,7 @@ msgid "GANTRY5_PLATFORM_MENU"
 msgstr "Menu"
 
 msgid "GANTRY5_PLATFORM_ABOUT"
-msgstr "A propos"
+msgstr "À propos"
 
 msgid "GANTRY5_PLATFORM_EXTRAS"
 msgstr "Extras"
